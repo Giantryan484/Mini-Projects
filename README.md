@@ -1,6 +1,8 @@
 # Mini-Projects
 
-Welcome to my Mini-Project GitHub Repository. This is where I keep record of my solutions to various household inconveniences, hopefully giving insight into my engineering and design process. Detailed information about the design, materials, build process, and challenges encountered can be found in each project's respective folder (linked below).
+Welcome to my Mini-Project GitHub Repository! This is where I keep record of my solutions to various household inconveniences, hopefully giving insight into my engineering and design process. 
+
+Detailed information about the design, materials, build process, and challenges encountered can be found in each project's respective folder (linked below).
 
 ## Projects
 
