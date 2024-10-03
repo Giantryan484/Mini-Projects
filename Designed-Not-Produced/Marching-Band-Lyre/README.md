@@ -5,8 +5,7 @@
 ### Problem:
 I play the largest bass drum in our marching band, and while I'm doing parades and playing at the football stands, it's helpful to have sheet music to reference. The problem is, I don't have any way to hold sheet music securely while wearing the drum.
 
-(show music balanced precariously on bass drum)
-<img src="picture1.png" width="49%"> 
+<img src="picture1.jpeg" width="49%"> 
 
 ### Solution:
 I designed a custom lyre that could mount itself to the existing brackets on the drum.
