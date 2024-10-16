@@ -21,7 +21,7 @@ Detailed information about the design, materials, build process, and challenges 
 
 #### Complete, Other
 
-- [Electric Bass Music Stant](./Other/Bass-Music-Stand/README.md)
+- [Electric Bass Music Stand](./Other/Bass-Music-Stand/README.md)
 
 #### Incomplete/Not Produced
 
