@@ -5,14 +5,12 @@
 ### Problem:
 My friend and I liked to do diamond puzzles together to relax, which involved lining up tiny plastic diamonds on a small alignment device so we could use a specialized tool to grab rows of diamonds at a time. The problem was, removing the diamonds from this alignment device was exceedingly difficult because of small electric charges that made the plastic bits stick together.
 
-(GIF of them being stuck)
-<img src="picture1.png" width="49%"> 
+<img src="picture1.gif" width="49%"> 
 
 ### Solution:
 I created a specialized raking tool that let me quickly clear all the diamonds from the alignment boards.
 
-(design, GIF of being used)
-<img src="picture2.jpg" width="49%"> <img src="picture3.png" width="49%"> 
+<img src="picture2.jpg" width="49%"> <img src="picture3.gif" width="49%"> 
 
 **Details:**
 I tried to make this design completely flat because I only had about one hour to design and print it (I had the idea one day when my friend was at my place, and I was trying to get it made before they had to leave). I was successful and, as a result, it was perhaps the quickest engineering project I had done up until that day.
