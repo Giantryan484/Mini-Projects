@@ -5,12 +5,12 @@
 ### Problem:
 When playing bass in my school's football pep band, I need to read music. The problem is, when it's pitch black outside and I've got dozens of sweaty high schoolers blocking my view, I can't read my music, much less see the drum major.
 
-<img src="picture1.gif" width="49%"> 
+<img src="picture1.gif" alt="GIF of music being barely readable" width="49%"> 
 
 ### Solution:
 I made a little clip-on music stand with a built-in light so I can read my music in any condition. I can also stand up to see the drum major's conducting now, and I can actually watch the football game (we won 62-21; it was quite fun).
 
-<img src="picture3.gif" width="49%"> 
+<img src="picture3.gif" alt="GIF of music clip and light in action" width="49%"> 
 
 **Details:**
 I made this about 15 minutes before our homecoming football game (it was quite a busy week). Don't judge the materials or looks too harshly; I was working under some wild constraints.
