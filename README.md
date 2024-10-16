@@ -19,12 +19,16 @@ Detailed information about the design, materials, build process, and challenges 
 - [Toilet Lid Spacer](./3D-Printed/Toilet-Lid-Spacer/README.md)
 - [Tape Dispenser](./3D-Printed/Tape-Dispenser/README.md)
 
+#### Complete, Other
+
+- [Electric Bass Music Stant](./Other/Bass-Music-Stand/README.md)
+
 #### Incomplete/Not Produced
 
 - [Pasta Maker](./Designed-Not-Produced/Pasta-Maker/README.md)
-- [Sandbox Plug](./Designed-Not-Produced/Sandbox-Plug/README.md)
 - [Dog Bag Dispenser](./Designed-Not-Produced/Dog-Bag-Dispenser/README.md)
 - [Marching-Band Lyre](./Designed-Not-Produced/Marching-Band-Lyre/README.md)
+- [Sandbox Plug](./Designed-Not-Produced/Sandbox-Plug/README.md)
 
 ## My Mini-Project Build Process
 ### 1. Be inconvenienced
